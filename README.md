@@ -17,3 +17,4 @@ semester.
  `NCAM070` camera faces different cardinal directions at different times of day.
  - Social distancing and facemask analysis are then run on these `west.avi`
  cardinal direction videos.
+ - Other files to be committed later.
